@@ -2,8 +2,12 @@
 
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-576-blue)
+
+
 <!---Insert About--->
 <!---End About--->
+
+
 <p align="left">
   <a href="https://twitch.tv/jna_sh"><img alt="Twitch" title="Twitch" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitch.svg"></a>
   <a href="https://twitter.com/jna_sh?lang=en"><img alt="Twitter" title="Twitter" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"></a>
@@ -16,7 +20,7 @@
 
 <p>
   <a href="https://github.com/joenash/joenash">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=joenash&show_icons=true&line_height=27&count_private=true&theme=tokyonight" alt="Joe's GitHub Stats" /></a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=joenash&show_icons=true&line_height=27&count_private=true&theme=highcontrast" alt="Joe's GitHub Stats" /></a>
 </p>
 
 
