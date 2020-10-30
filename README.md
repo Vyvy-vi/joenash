@@ -1,7 +1,9 @@
 ### #GitHubDropIce
-<!---do not remove the headers and do not put text in here--->
 
-#### Joe-username: 
+<a href="https://dev.to/joenash"><img alt="Twitch" title="Twitch" height="100" width="30" src="https://avatars2.githubusercontent.com/u/1790822?s=400&u=bb35d9be2085979d3083d55728caad2e31ef0a33&v=4"></a>
+
+#### Joe-username:
+<!---do not remove the headers and do not put text in here--->
 <!--username:START-->
 InterestingRightCoolCoolCoolRightCoolCoolCool
 <!--username:END-->
