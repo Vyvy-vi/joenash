@@ -16,7 +16,7 @@
 
 <p>
   <a href="https://github.com/joenash/joenash">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=joenash&show_icons=true&line_height=27&count_private=true&theme=tokyonight&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Joe's GitHub Stats" /></a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=joenash&show_icons=true&line_height=27&count_private=true&theme=tokyonight" alt="Joe's GitHub Stats" /></a>
 </p>
 
 
