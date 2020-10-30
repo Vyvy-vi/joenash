@@ -1,11 +1,10 @@
 import random
 
-JOES_CONSTANTS = ["right", "awesome", "interesting", "cool","cool"]
-def generate(max_limit=4):
-  max_limit = int(max_limit)
+JOE_WORDS = ["right", "awesome", "interesting", "cool","cool"]
+def generate(lim:int=4):
   word = ""
-  for i in range(max_limit):
-    rand_word = random.choice(JOES_CONSTANTS)
-    word += rand_word[0].upper() + rand_word[1:]
+  for i in range(lim):
+    rand_word = random.choice(JOE_WORDS)
+    word += rand_word.capitalise()
   return word
 print(generate(random.randint(3,11)))
