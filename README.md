@@ -1,5 +1,6 @@
 ### #GitHubDropIce
-
+<!--stuff:START-->
+<!--stuff:END-->
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-576-blue)
 
@@ -24,6 +25,7 @@
     <a href="https://github.com/joenash/joenash">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joenash&show_icons=true&theme=synthwave&layout=compact" alt="Joe's Top Langs" /></a>
 </p>
+
 ---
 
 <!---Joe's Dev.to feed--->
