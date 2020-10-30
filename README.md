@@ -9,7 +9,7 @@
 </a>
 
 <p align="left">
-<a href="https://github.com/joenash"><img alt="GitHub" title="GitHub" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg"></a>
+  <a href="https://github.com/joenash"><img alt="GitHub" title="GitHub" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg"></a>
 
-<a href="https://www.twitch.tv/raisedevs"><img alt="Twitch" title="Twitch" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitch.svg"></a>
+  <a href="https://www.twitch.tv/raisedevs"><img alt="Twitch" title="Twitch" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitch.svg"></a>
 </p>
