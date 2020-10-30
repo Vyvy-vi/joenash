@@ -2,8 +2,8 @@
 <!---do not remove the headers and do not put text in here--->
 
 #### Joe-username: 
-<!--stuff:START-->
-<!--stuff:END-->
+<!--username:START-->
+<!--username:END-->
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-576-blue)
 
