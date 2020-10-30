@@ -22,11 +22,11 @@
   <a href="https://github.com/joenash/joenash">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=joenash&show_icons=true&line_height=27&count_private=true&theme=highcontrast" alt="Joe's GitHub Stats" /></a>
 </p>
-<p align="right">
+<p>
   <a href="https://github.com/joenash/joenash">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joenash&show_icons=true&theme=synthwave" alt="Joe's Top Langs" /></a>
 </p>
-
+https://github-readme-stats.vercel.app/api?username=joenash&count_private=true&show_icons=true&theme=synthwave
 <!---Joe's Dev.to feed--->
 <details>
   <summary>My Blogs</summary>
