@@ -8,8 +8,6 @@
   <a href="https://github.com/joenash/joenash">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=joenash&show_icons=true&line_height=27&count_private=true&theme=synthwave" alt="Joe's GitHub Stats" /></a>
 </p>
-    <a href="https://github.com/joenash/joenash">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joenash&show_icons=true&theme=synthwave&layout=compact" alt="Joe's Top Langs" /></a>
 <p align="left">
   <a href="https://twitch.tv/jna_sh"><img alt="Twitch" title="Twitch" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitch.svg"></a>
   <a href="https://twitter.com/jna_sh?lang=en"><img alt="Twitter" title="Twitter" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"></a>
