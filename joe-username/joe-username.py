@@ -7,9 +7,13 @@ def generate(lim:int=4):
     rand_word = random.choice(JOE_WORDS)
     word += rand_word.title()
   return word
-print(generate(random.randint(3,11)))
-
 
 with open("README.md") as f:
-  print(f.readlines())
+  fl = f.readlines()
+  i1 = f.index('<!--username:START-->\n')
+  i2 = f.index('<!--username:END-->\n')
+  
+  user_name = generate(random.randint(3,11)) + '\n'
+  fl = f[:i1+1] + [user_name] + f[i2:]
+  print(fl)
 # open("README.md",'w').write(out)
