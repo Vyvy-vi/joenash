@@ -28,5 +28,7 @@
   <summary>My Blogs</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Enso Dev Blog - 19th June 2020](https://dev.to/enso_org/enso-dev-blog-19th-june-2020-52da)
+- [Deploying to Heroku from GitHub Actions](https://dev.to/heroku/deploying-to-heroku-from-github-actions-29ej)
 <!-- BLOG-POST-LIST:END -->
 </details>
