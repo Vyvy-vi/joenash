@@ -25,7 +25,7 @@
 
 <!---Joe's Dev.to feed--->
 <details>
-  <summary>:zap: PYTHON UPDATES:</summary>
+  <summary>My Blogs</summary>
   
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
