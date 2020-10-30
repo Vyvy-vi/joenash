@@ -1,7 +1,7 @@
 ### #GitHubDropIce
 <p align = "left">
   <a href="https://dev.to/joenash"><img alt="joe" title="Joe" height="180" width="180" src="https://avatars2.githubusercontent.com/u/1790822?s=400&u=bb35d9be2085979d3083d55728caad2e31ef0a33&v=4"></a>
-  <a href="https://dev.to/joenash"><img alt="Joe" title="Joe" height="200" width="900" src="https://media.discordapp.net/attachments/771696574697832469/771831850951639071/output.png"></a>
+  <a href="https://dev.to/joenash"><img alt="Joe" title="Joe" height="200" width="860" src="https://media.discordapp.net/attachments/771696574697832469/771831850951639071/output.png"></a>
 </p>
 
 #### Joe-username:
