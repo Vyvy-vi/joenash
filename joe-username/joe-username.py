@@ -7,4 +7,4 @@ def generate(lim:int=4):
     rand_word = random.choice(JOE_WORDS)
     word += rand_word.title()
   return word
-print(generate(random.randint(3,11)))
+print(generate(random.randint(2,11)))
