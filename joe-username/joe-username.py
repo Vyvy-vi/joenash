@@ -8,4 +8,4 @@ def generate(max_limit=4):
     rand_word = random.choice(JOES_CONSTANTS)
     word += rand_word[0].upper() + rand_word[1:]
   return word
-print(generate(random.randint(1,4)))
+print(generate(random.randint(3,11)))
