@@ -11,5 +11,5 @@ print(generate(random.randint(3,11)))
 
 
 with open("README.md") as f:
-  print(f)
+  print(f.read())
 # open("README.md",'w').write(out)
