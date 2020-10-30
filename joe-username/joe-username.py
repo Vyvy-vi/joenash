@@ -16,4 +16,4 @@ with open("README.md") as f:
   user_name = generate(random.randint(3,11)) + '\n'
   fl = fl[:i1+1] + [user_name] + fl[i2:]
   print(fl)
-open("README.md",'w').write(out)
+open("README.md",'w').writelines(fl)
