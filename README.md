@@ -23,4 +23,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=joenash&show_icons=true&line_height=27&count_private=true&theme=highcontrast" alt="Joe's GitHub Stats" /></a>
 </p>
 
-
+<!---Joe's Dev.to feed--->
+<details>
+  <summary>:zap: PYTHON UPDATES:</summary>
+  
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+</details>
