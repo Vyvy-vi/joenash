@@ -10,7 +10,7 @@
   <a href="https://github.com/joenash"><img alt="GitHub" title="GitHub" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg"></a>
   <a href="https://www.linkedin.com/in/joednash/"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a>
   <a href="https://dev.to/joenash">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Joe's DEV Profile" height="30" width="30">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Joe's DEV Profile" height="32" width="32">
 </a>
 </p>
 
@@ -20,5 +20,3 @@
 </p>
 
 
-
-https://dev.to/joenash
