@@ -6,7 +6,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=joenash&show_icons=true&line_height=27&count_private=true&theme=synthwave" alt="Joe's GitHub Stats" />
      </a>
      <a href="https://github.com/joenash/joenash">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joenash&show_icons=true&theme=synthwave" alt="Joe's Top Langs" /></a>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joenash&show_icons=true&theme=synthwave" alt="Joe's Top Langs" /></a>
 </p>
 
 
