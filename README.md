@@ -25,7 +25,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joenash&show_icons=true&theme=synthwave&layout=compact" alt="Joe's Top Langs" /></a>
 </p>
 
----
+<p>
+</p>
 <!---Joe's Dev.to feed--->
 <details>
   <summary>My Blogs</summary>
