@@ -26,7 +26,7 @@
   <a href="https://github.com/joenash/joenash">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joenash&show_icons=true&theme=synthwave" alt="Joe's Top Langs" /></a>
 </p>
-https://github-readme-stats.vercel.app/api?username=joenash&count_private=true&show_icons=true&theme=synthwave
+
 <!---Joe's Dev.to feed--->
 <details>
   <summary>My Blogs</summary>
