@@ -1,6 +1,6 @@
 ### #GitHubDropIce
 <p align = "left">
-     <a href="https://dev.to/joenash"><img alt="joe" title="Joe" height="180" width="180" src="https://avatars2.githubusercontent.com/u/1790822?s=400&u=bb35d9be2085979d3083d55728caad2e31ef0a33&v=4">
+     <a href="https://dev.to/joenash"><img alt="joe" title="Joe" height="200" width="200" src="https://avatars2.githubusercontent.com/u/1790822?s=400&u=bb35d9be2085979d3083d55728caad2e31ef0a33&v=4">
      </a>
      <a href="https://github.com/joenash/joenash">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=joenash&show_icons=true&line_height=27&count_private=true&theme=synthwave" alt="Joe's GitHub Stats" />
