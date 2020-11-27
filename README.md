@@ -25,7 +25,7 @@
 #### Joe-username:
 <!---do not remove the headers and do not put text in here--->
 <!--username:START-->
-CoolInterestingAwesomeCoolRightCoolRightCoolRightAwesomeCool
+RightInterestingRight
 <!--username:END-->
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-576-blue)
